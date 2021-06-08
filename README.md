@@ -5,7 +5,7 @@
 
   ## Table of Contents
   - [Installation](#installation)
-  - [Screenshots] (#screenshots)
+  - [Screenshots] (#Screenshots)
   - [Questions](#questions)
 
   ## Installation 
@@ -13,7 +13,9 @@
 
   ## Screenshots
   
-  ![Screenshot of application](localhost3001.png)
+  ![Screenshot of application](screenshots/localhost_3001_.png)
+  ![Screenshot of application](screenshots/localhost_3001_ (1).png)
+  
 
 
   ## Questions 
