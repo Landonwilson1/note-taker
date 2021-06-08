@@ -13,7 +13,7 @@
   ## Screenshots
   
   ![Screenshot of application](screenshots/localhost_3001_.png)
-  ![Screenshot of application](screenshots/localhost_3001_notes (1).png)
+  ![Screenshot application](screenshots/localhost_3001_notes (1).png)
   
 
 
